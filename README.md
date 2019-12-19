@@ -1,10 +1,12 @@
-1) Criar uma nova aplicação Rails e chamar de alpha-blog
+Esse Ã© o repositÃ³rio da minha primeira aplicaÃ§Ã£o em Ruby on Rails
 
-2) Conferir se o servidor pode ser iniciado e visualizar a aplicação
+1) Criar uma nova aplicaï¿½ï¿½o Rails e chamar de alpha-blog
 
-3) Criar um Controller de páginas. 
+2) Conferir se o servidor pode ser iniciado e visualizar a aplicaï¿½ï¿½o
+
+3) Criar um Controller de pï¿½ginas. 
 
 4) Verificar se possui routes apropriadas
 
-5) Criar uma página inicial, sobre ...
+5) Criar uma pï¿½gina inicial, sobre ...
 
